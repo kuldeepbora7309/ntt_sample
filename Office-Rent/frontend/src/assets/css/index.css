@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.ant-card-body h3 a {
+  color: #ffffff;
+}
+
+.dashboard-box-link-update .ant-card-body {
+  background-color: #64665b;
+  color: #ffffff;
+  margin-bottom: 20px;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.dashboard-box-link-update .ant-card-body h3 a {
+  color: #ffffff;
+}
+
+.form-box {
+  width: 30% !important;
+}
+
+.form-container,
+.row {
+  margin-bottom: 20px;
+}
+
+.ant-btn-primary {
+  background-color: green;
+}
+
+.ant-btn-danger {
+  background-color: red;
+}

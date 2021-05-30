@@ -1,0 +1,7 @@
+
+1) install node modules -:  npm install
+2) run on dev mode      -:  npm run start
+3) create prod build    -:  npm run build
+4) run prod build       -:  serve -s build
+
+
